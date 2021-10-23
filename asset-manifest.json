@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/monkinews.git/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/monkinews.git/static/js/main.57b39e4c.chunk.js",
+    "main.js.map": "/monkinews.git/static/js/main.57b39e4c.chunk.js.map",
+    "runtime-main.js": "/monkinews.git/static/js/runtime-main.9eeba1bd.js",
+    "runtime-main.js.map": "/monkinews.git/static/js/runtime-main.9eeba1bd.js.map",
+    "static/js/2.73244ef0.chunk.js": "/monkinews.git/static/js/2.73244ef0.chunk.js",
+    "static/js/2.73244ef0.chunk.js.map": "/monkinews.git/static/js/2.73244ef0.chunk.js.map",
+    "static/js/3.3bbdebd4.chunk.js": "/monkinews.git/static/js/3.3bbdebd4.chunk.js",
+    "static/js/3.3bbdebd4.chunk.js.map": "/monkinews.git/static/js/3.3bbdebd4.chunk.js.map",
+    "index.html": "/monkinews.git/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/monkinews.git/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.73244ef0.chunk.js.LICENSE.txt": "/monkinews.git/static/js/2.73244ef0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/monkinews.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9eeba1bd.js",
+    "static/js/2.73244ef0.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.57b39e4c.chunk.js"
+  ]
+}
